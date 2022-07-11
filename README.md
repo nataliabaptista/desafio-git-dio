@@ -1,2 +1,1 @@
-# desafio-git-dio
-Desafio desenvolvido durante o bootcamp DIO
+# Desafio desenvolvido durante o bootcamp DIO
