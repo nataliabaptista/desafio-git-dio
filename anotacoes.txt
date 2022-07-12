@@ -1,8 +1,0 @@
-Operadores lógicos com retorno em True/False: OR, NOT, AND.
-
-
-POO: 
-Classes com atributos que podem ou não varias, métodos e estados.
-
-
-Pilares POO: Herança, polimorfismo, encapsulamento e abstração.
