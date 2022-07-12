@@ -14,13 +14,13 @@ Herança, polimorfismo, encapsulamento e abstração.
 visibilidade? modificador? tipo nome valorInicial? 
 (? nos que não são obrigatórios)
 
-Variavel "static" e "final" não altera (CONSTANTE)
+Variável "static" e "final" não altera (CONSTANTE)
 
-Java é case sentitive. $ e _ (exceção para o _ é a constante) devem ser evitados nos nomes de variáveis (e não se inicia nome de variavel com números)
+Java é case sentitive. $ e _ (a exceção do _ é a constante) devem ser evitados nos nomes de variáveis (e não se inicia nome de variável com números)
 
-Variavel começa com letra minuscula, tem nome expressivo (sem abreviar coisas que não da para ter ctz do que é), notaçãoCamelo.
+Variável começa com letra minuscula, tem nome expressivo (não abreviar coisas que não dá para ter certeza do que é), notaçãoCamelo.
 
-CONSTANTE com letra maiuscula e separada por _.
+CONSTANTE com letra maiúscula e separada por _.
 
 
 
