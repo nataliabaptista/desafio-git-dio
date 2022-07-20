@@ -22,11 +22,11 @@ Variável começa com letra minuscula, tem nome expressivo (não abreviar coisas
 
 CONSTANTE com letra maiúscula e separada por _.
 
+
 # Tipos de dados: 
 Numeral:
 float = 3.14 (f) -No float sempre tem que colocar o (f);
 double = 3.14 (d) -Pode ou não colocar o (d);
-
 
 
 # Operadores:
@@ -51,6 +51,7 @@ int i;
 float f = 10.5f;
 i = (int)f; (perda dos dados que estão após o ponto (decimais) = Truncar).
 
+
 # Método:
 visibilidade? tipo? modificador? retorno nome(parametros? (idade)) excecoes? {corpo}
 
@@ -70,3 +71,43 @@ nomeDoObjeto.nomeDoMetodo();
 assinatura do metodo = nomeIdDoMetodo(parametros); ou,
 nomeIdDoMetodo();
 
+
+# Operadores Relacionais:
+No minimo dois operandos. Retorna true ou false. Se o tipo de dado é muito diferente, dependendo do operador, não funciona (numerico e numerico funciona).
+Igual ==
+Diferente !=
+Maior >
+Maior igual >=
+Menor <
+Menor igual <=
+
+
+# Operadores:
+And && (ambos verdade)
+Or || (só é falso quando os dois são falsos)
+Not ! 
+Disjunção exclusiva ^
+
+
+- BlocosDeExecução{}
+
+
+# Arrays:
+Objeto para armazenar sequenciamente dados do mesmo tipo. Começa do 0. Tem indice [].   
+Se for unidimensional (coluna) c[0], c[1]...
+Se for multidimensional (linhas e colunas) a[0][1]... nomeArray[IndLinha][indColuna].
+int[] vetor = {-5, -6, 15, 50, 8, 4};
+para ver o tamanho: sysout(vetor.length);
+
+
+
+# Do while: 
+do {
+/aqui o que eu quero que seja feito
+com contador (ex, para parar). A primeira execução do Do ocorre mesmo se a condição não for satisfeita (pq o while vem depois)
+} while(contador < 5); /aqui a condição para parar
+
+
+# For:
+for (int i = 1, i <=10; i = i+1) {
+}
